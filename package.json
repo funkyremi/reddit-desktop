@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "electron-packager . reddit --platform=darwin --arch=x64 --electron-version=2.0.3 --icon=icon.png --overwrite",
+    "build-macos": "electron-packager . reddit --platform=darwin --arch=x64 --electron-version=2.0.3 --icon=icon.png --overwrite",
+    "build-windows": "electron-packager . reddit --platform=win32 --arch=x64 --electron-version=2.0.3 --icon=icon.ico --overwrite",
     "start": "electron ."
   },
   "author": "",

@@ -6,3 +6,6 @@
 ## Download
 
 * [MacOS app](https://github.com/funkyremi/reddit-desktop/releases/download/1.0/reddit_macos.zip)
+
+
+* [Windows app](https://github.com/funkyremi/reddit-desktop/releases/download/1.0/reddit_windows.zip)
